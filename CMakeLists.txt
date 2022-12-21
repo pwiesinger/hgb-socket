@@ -3,4 +3,4 @@ project(hgb_socket C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(hgb_socket main.c WordCheck.c)
+add_executable(hgb_socket WordCheck.c  u1a4.c)
